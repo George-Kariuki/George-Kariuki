@@ -56,7 +56,7 @@
 
 ## 🗺️ Roadmap
 
-### 🚀 2025 Goals
+### 🚀 Goals
 - **Phase 1: No-Code to Full-Code Transition**
   - Showcase key projects in **Flutterflow, Bubble, and Adalo**
   - Document each project with architecture & feature breakdowns  
