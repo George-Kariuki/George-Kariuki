@@ -37,7 +37,7 @@ I come from a **Mechatronics Engineering + PLC Automation** background, so I nat
 
 ---
 
-## 📌 My Public Roadmap (2025)
+## 📌 My Public Roadmap
 
 **✅ Phase 1 — Apps & Automation (Now)**
 - Ship well-documented mobile apps (Flutter + low/no-code builds)
