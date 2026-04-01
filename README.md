@@ -5,13 +5,14 @@
 </p>
 
 # 💫 About Me
-- 🚀 **Startup Builder | No-Code Engineer | Flutter Developer**
-- 🧠 Building fast, scalable, and automated apps using **Flutter, Bubble, Adalo, and API integrations**
-- 💡 Transitioning from **No-Code to Full-Code** — exploring **Python, FastAPI, and DevOps**
-- 🧩 Passionate about solving Africa’s toughest tech challenges with automation & data-driven tools
-- 🎯 Currently exploring **AI + Backend + Embedded Systems** for real-world automation
-- 💬 Ask me about **Flutterflow, Bubble, Xano, APIs, or Mechatronics Automation**
-- ⚡ Fun fact: I love merging **hardware engineering** with **software innovation**
+- 🚀 **Flutter Developer | Python Backend Engineer | DevOps Explorer**
+- 🧠 Building production-grade APIs, containerized services, and AI-powered mobile apps
+- 🐍 Shipped Python backends with **FastAPI**, **Docker**, and **Terraform** — from local dev to AWS
+- ☁️ Explored **microservice architecture** on AWS and **Infrastructure as Code** with Terraform
+- 🌱 Studied Python deeply: OOP, algorithms, data structures, async/await, and concurrency
+- 🤖 Building **AgriScan** — an AI crop-health scanner for smallholder farmers across Africa
+- 🔧 Background in **Mechatronics** — I love merging hardware thinking with software systems
+- 💬 Ask me about **Flutter, FastAPI, Docker, Terraform, or no-code tools like Bubble & Xano**
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-kariuki-developer/) 
@@ -31,43 +32,47 @@
 ![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-%23D6001C.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 ### ⚙️ Software & Development
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flutterflow](https://img.shields.io/badge/Flutterflow-%233DDC84.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bubble](https://img.shields.io/badge/Bubble.io-%230048FF.svg?style=for-the-badge&logo=bubble&logoColor=white)
 ![Adalo](https://img.shields.io/badge/Adalo-%23FF6F00.svg?style=for-the-badge&logo=adalo&logoColor=white)
 ![Xano](https://img.shields.io/badge/Xano-%2312100E.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4C89.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![API Integrations](https://img.shields.io/badge/API%20Integrations-%230A0A0A.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF6600.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ☁️ Tools & Infrastructure
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%230A0A0A.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%234F46E5.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 🗺️ Roadmap
+## 🧪 Recent Learning Projects
 
-### 🚀 Goals
-- **Phase 1: No-Code to Full-Code Transition**
-  - Showcase key projects in **Flutterflow, Bubble, and Adalo**
-  - Document each project with architecture & feature breakdowns  
-- **Phase 2: Backend + APIs**
-  - Build APIs using **Python (FastAPI, Django REST, Flask)**  
-  - Deploy via **Render, Vercel, or Ngrok**  
-  - Connect to **Supabase** and **Xano** for production-ready backends  
-- **Phase 3: DevOps + Scalability**
-  - Learn **CI/CD pipelines**, Docker, and microservices  
-  - Integrate **AI-driven automations** and analytics for African market tools  
-  - Build impactful, open-source systems solving **local automation, logistics, and finance problems**
+| Project | What I Built | Stack |
+|---|---|---|
+| [inventory-api](https://github.com/George-Kariuki/inventory-api) | REST API with containerized deployment & IaC | Python · Docker · Terraform · Shell |
+| [ecommerce-project](https://github.com/George-Kariuki/ecommerce-project) | Resilient microservices platform on AWS | Python · Microservices · AWS |
+| [Python-Basics](https://github.com/George-Kariuki/Python-Basics) | OOP, algorithms, async, data structures, concurrency | Python |
+| [AgriScan](https://github.com/George-Kariuki/AgriScan) | AI crop-health scanner for African smallholder farmers | Flutter · Dart · AI |
+
+---
+
+## 🗺️ What's Next
+
+- **Deepen backend**: Django REST Framework, database optimization, auth systems
+- **Level up DevOps**: CI/CD pipelines (GitHub Actions), Kubernetes basics, monitoring & observability
+- **AI integration**: Connect ML models to production APIs for real-world African market tools
+- **Open source**: Contribute to and build impactful systems solving local automation & logistics
 
 ---
 
@@ -81,7 +86,7 @@
 
 <div align="center">
 
-### 💡 *Building the future, one low-code & full-code project at a time.*
+### 💡 *No-code roots. Full-code present. Building systems that matter for Africa.*
 ⭐ Show some love by starring my repos!
 
 </div>
