@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me
-- 🚀 **AI Product Engineer | Full Stack and Mobile | OT and ICS Security**
+- 🚀 **Product Engineer | Full Stack and Mobile | OT and ICS Security**
 - 🧱 I take products from a blank repo to the App Store, usually as the only engineer on the project
 - 🤖 I build with **Claude Code** and **Cursor** every day, and I put **Claude** inside the product where it saves someone real work: reading supplier invoices from a photo, pulling details out of certificates, drafting replies for a person to approve
 - 📱 Most of my work ships on **Next.js, Flutter and Supabase**, with row-level security tested in pgTAP and Playwright plus axe on every page
